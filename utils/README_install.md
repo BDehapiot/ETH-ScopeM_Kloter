@@ -1,15 +1,3 @@
- ![IJ Badge](https://img.shields.io/badge/ImageJ-1.54f-rgb(101%2C164%2C227)?logo=imageJ&logoColor=rgb(149%2C157%2C165)&labelColor=rgb(50%2C60%2C65))  
-![Author Badge](https://img.shields.io/badge/Author-Benoit%20Dehapiot-blue?labelColor=rgb(50%2C60%2C65)&color=rgb(149%2C157%2C165))
-![Date Badge](https://img.shields.io/badge/Created-2023--05--10-blue?labelColor=rgb(50%2C60%2C65)&color=rgb(149%2C157%2C165))
-![License Badge](https://img.shields.io/badge/Licence-GNU%20General%20Public%20License%20v3.0-blue?labelColor=rgb(50%2C60%2C65)&color=rgb(149%2C157%2C165))    
-
-# ETH-ScopeM_Kloter  
-Measure pH-Lemon sensor fluorescence intensity ratio
-
-## Index
-- [Installation](#installation)
-- [Comments](#comments)
-
 ## Installation
 
 </details> 
@@ -39,7 +27,3 @@ Measure pH-Lemon sensor fluorescence intensity ratio
 - Click `run` in the new IDE window to execute the macro
 
 </details>
-
-
-
-## Comments
