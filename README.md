@@ -4,7 +4,7 @@
 ![License Badge](https://img.shields.io/badge/Licence-GNU%20General%20Public%20License%20v3.0-blue?labelColor=rgb(50%2C60%2C65)&color=rgb(149%2C157%2C165))    
 
 # ETH-ScopeM_Kloter  
-Measure pH-Lemon sensor fluorescence intensity ratio
+Measure pH-Lemon sensor fluo. int. ratio
 
 ## Index
 - [Installation](#installation)
